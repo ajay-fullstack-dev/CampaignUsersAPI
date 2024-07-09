@@ -1,0 +1,8 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  database: project_name_development
+  pool: 5
+  username: root
+  password: root
+  host: localhost
